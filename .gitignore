@@ -35,3 +35,6 @@ out/
 
 ### VS Code ###
 .vscode/
+
+
+/src/main/generated/study/querydsl/entity/QHello.java
